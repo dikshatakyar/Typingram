@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Typingram/static/css/main.cebd9024.css",
+    "main.js": "/Typingram/static/js/main.e5e6c0b7.js",
+    "static/media/logo.png": "/Typingram/static/media/logo.904ac8fd0f7b25e86967.png",
+    "static/media/typing.svg": "/Typingram/static/media/typing.4328e9878ba16413f02028832671928f.svg",
+    "index.html": "/Typingram/index.html",
+    "main.cebd9024.css.map": "/Typingram/static/css/main.cebd9024.css.map",
+    "main.e5e6c0b7.js.map": "/Typingram/static/js/main.e5e6c0b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cebd9024.css",
+    "static/js/main.e5e6c0b7.js"
+  ]
+}
